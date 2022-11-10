@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+![chwangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chwangmin&show_icons=true&theme=transparent)
+
 <!--
 **chwangmin/chwangmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
