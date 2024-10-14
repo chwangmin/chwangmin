@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chwangmin/static/css/main.bc9ead5a.css",
+    "main.js": "/chwangmin/static/js/main.28bc5761.js",
+    "index.html": "/chwangmin/index.html",
+    "static/media/blob-haikei.svg": "/chwangmin/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.bc9ead5a.css.map": "/chwangmin/static/css/main.bc9ead5a.css.map",
+    "main.28bc5761.js.map": "/chwangmin/static/js/main.28bc5761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc9ead5a.css",
+    "static/js/main.28bc5761.js"
+  ]
+}
