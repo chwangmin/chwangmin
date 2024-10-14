@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/jamjam.png",
+    img: `${process.env.PUBLIC_URL}/jamjam.png`,
     title: "jamjam",
     description:
       "대중교통 이용자를 대상으로, 모임 참여자들의 위치를 고려하여 최적의 만남 장소를 추천하는 모임역 중심 찾기 서비스를 제공하는 프로젝트입니다.",

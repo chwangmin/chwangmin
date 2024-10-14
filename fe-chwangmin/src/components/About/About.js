@@ -17,7 +17,7 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="/chwangmin.png"
+            src={`${process.env.PUBLIC_URL}/chwangmin.png`}
             alt="chwangmin"
           />
         </ScrollAnimation>
